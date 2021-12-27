@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>src/down.png</file>
+        <file>src/downest.png</file>
+        <file>src/empty.png</file>
+        <file>src/shark.png</file>
+        <file>src/start.png</file>
+        <file>src/stop.png</file>
+        <file>src/up.png</file>
+        <file>src/upest.png</file>
+    </qresource>
+</RCC>
